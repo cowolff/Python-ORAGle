@@ -1,3 +1,5 @@
+/gemma/7b-it-quant/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
